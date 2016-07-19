@@ -1,2 +1,2 @@
 # PROJECT-MANEGER
-PRUEBA BETA 'Aqui se esta trabajando a nivel  de proyecto'
+PRUEBA BETA 'Bueno se esta trabajando a nivel  de proyecto'
